@@ -1,0 +1,5 @@
+C:\Users\Brett\Documents\Visual Studio 2012\Projects\FileInformationApp\FileInformationApp\bin\Debug\FileInformationApp.exe
+C:\Users\Brett\Documents\Visual Studio 2012\Projects\FileInformationApp\FileInformationApp\bin\Debug\FileInformationApp.pdb
+C:\Users\Brett\Documents\Visual Studio 2012\Projects\FileInformationApp\FileInformationApp\obj\Debug\FileInformationApp.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Documents\Visual Studio 2012\Projects\FileInformationApp\FileInformationApp\obj\Debug\FileInformationApp.exe
+C:\Users\Brett\Documents\Visual Studio 2012\Projects\FileInformationApp\FileInformationApp\obj\Debug\FileInformationApp.pdb
