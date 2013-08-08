@@ -9,4 +9,4 @@ to the text file as comma-separated values.
 First input: Enter the path of the directory to be searched. The application will recursively search all
 subdirectories in the main directory.
 
-Second input: Enter the path where you want the text file created. 
+Second input: Enter the path where you want the text to be file created. 
